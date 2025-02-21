@@ -2,4 +2,5 @@ int main(){
 cout<<"hello c++";
 cin>>age;// initialize age as int first
 //ok
+return 0;
 }
