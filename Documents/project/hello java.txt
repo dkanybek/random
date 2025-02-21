@@ -1,3 +1,11 @@
 class Car{
 private int speed;
+public Car(int speed){
+	this.speed=speed
 }
+public int getSpeend(){
+return speed
+}
+}
+
+
